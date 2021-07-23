@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hafizurr/Documents/PencileandPaper/Udacity-MLOps/rough/Hydra_Sweep/mlruns/0/c64635c2ae1346b990dfb4aa9ce234eb/artifacts
+end_time: 1627061949653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c64635c2ae1346b990dfb4aa9ce234eb
+run_uuid: c64635c2ae1346b990dfb4aa9ce234eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627061944509
+status: 4
+tags: []
+user_id: hafizurr
